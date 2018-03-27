@@ -1,0 +1,16 @@
+{
+  "name": "rize-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "make-dir": "^1.2.0",
+    "puppeteer": "^1.2.0",
+    "rize": "^0.6.0"
+  }
+}
